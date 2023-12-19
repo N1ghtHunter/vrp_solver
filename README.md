@@ -37,6 +37,6 @@ python main.py
 - [Kerolus Soliman](https://github.com/kerolus77)
 - [Philo Ezzat](https://github.com/Philo-Ezzat)
 - [Fam Fayez](https://github.com/FamFayez)
-- [Kerolos Samy]()
+- [Kirolos Samy](https://github.com/Kirolos-Samy)
 - [Marina Ayman](https://github.com/MarinaAymanHanna)
 - [Marina Ghattas](https://github.com/Marinaghatas)
