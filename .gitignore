@@ -1,0 +1,4 @@
+build
+__pycache__
+algorithm/__pycache__
+gui/__pycache__
